@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('../assets/fonts/inter-v11-latin_cyrillic-regular.woff2') format('woof2'),
+        url('../assets/fonts/inter-v11-latin_cyrillic-regular.woff') format('woof');
+}
+
+@font-face {
+    font-family: 'IBM Plex Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url('../assets/fonts/ibm-plex-sans-v14-latin_cyrillic-300.woff2') format('woof2'),
+        url('../assets/fonts/ibm-plex-sans-v14-latin_cyrillic-300.woff') format('woof');
+}
+
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('../assets/fonts/inter-v11-latin_cyrillic-700.woff2') format('woof2'),
+        url('../assets/fonts/inter-v11-latin_cyrillic-700.woff') format('woof');
+}
+
+
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('../assets/fonts/inter-v11-latin_cyrillic-regular.woff2') format('woof2'),
+        url('../assets/fonts/inter-v11-latin_cyrillic-regular.woff') format('woof');
+}
